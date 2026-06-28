@@ -17,7 +17,7 @@ A Machine Learning web application that predicts heart disease risk based on cli
 
 | High Risk Prediction | Low Risk Prediction |
 |---|---|
-| ![High Risk](screenshots/high_risk.jpeg) | ![Low Risk](screenshots/low_risk.jpeg) |
+| ![High Risk](high_risk.jpeg) | ![Low Risk](low_risk.jpeg) |
 
 
 
