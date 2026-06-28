@@ -152,7 +152,7 @@ This application is built for **educational and demonstration purposes only**. I
 **Narendra Kharwal**
 B.Tech CSE (Artificial Intelligence) — SKIT, Jaipur
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narendrakharwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narendra-kharwal2004)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/narendrakharwal2004)
 
 ---
